@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "https://bike-csecu.com/datasets/CovKG/analytical-interface/*"
+  to = "/"
+  status = 200
