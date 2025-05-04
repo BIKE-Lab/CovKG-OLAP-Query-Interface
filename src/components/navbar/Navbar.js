@@ -19,7 +19,7 @@ const Navbar = () => {
                         p: '4px'
                     }}
                     noWrap>
-                        <Link href='/'><>SETL<sub> OLAP</sub></> <span className='font-normal'>| BIKE </span></Link>
+                        <Link href='/'><>COVKG<sub> OLAP</sub></> <span className='font-normal'>| BIKE </span></Link>
                     </Typography>
                 </Toolbar>
             </Container>
