@@ -1,4 +1,5 @@
 [[redirects]]
-  from = "https://bike-csecu.com/datasets/CovKG/analytical-interface/*"
-  to = "/"
+  from = "/datasets/CovKG/analytical-interface/*"
+  to = "https://covkg-olap-query-interface.vercel.app/:splat"
   status = 200
+  force = true
